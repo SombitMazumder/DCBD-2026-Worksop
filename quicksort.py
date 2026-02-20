@@ -5,7 +5,7 @@ Created on Sun Nov 16 23:59:45 2025
 @author: Sombit Mazumder
 """
 
-def partition(arr,low,high):
+def partition(arr,low,high):   # partitioning
     if len(arr) == 1 or len(arr) == 0:
         return arr
     elif low < high:
