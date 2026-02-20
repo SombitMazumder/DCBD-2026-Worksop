@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 16 23:59:45 2025
 
-@author: HP
+@author: Sombit Mazumder
 """
 
 def partition(arr,low,high):
